@@ -1,0 +1,17 @@
+Proposal for changes in the UI
+- Bottom Fixed Navigation Bar
+	- Home
+	- About Us
+	- Toggle switch for filtering positive and negative tweets
+	- *If Side Navigation Bar is feasible Home link will be removed
+- Top Fixed Navigation Bar
+	- Round User Profile picture
+		- Clickable to open Side Navigation Bar
+	- Page title
+- Side Navigation Bar
+	- Round User Profile picture (larger than the one on the Top Fixed Navigation Bar)
+	- User name
+	- User screen_name
+	- User number of following
+	- User number of followers
+	- *If Side Navigation Bar is feasible links for About, Terms and Conditions, and Privacy Policy will be moved here

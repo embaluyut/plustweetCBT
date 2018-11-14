@@ -1,0 +1,9 @@
+Hi!
+
+What I am about to show you is the UI prototype for our group project +Tweet. +Tweet is a mobile app that has the option to filter out positive and negative tweets from your feed. The app was designed to a single-page format which displays the filtered tweets. As a requirement for the required API, pages for About, Terms and Conditions, and Privacy Policy is created which can be all accessed at the upper right corner of the screen. The group's next step are the following:
+-import the models for the AI to use as basis for filtering positive and negative tweets
+-implement twitter login which is planned to be displayed alongside the navigation bar, and lastly,
+-create a toggle button for the filter options
+
+For those who wants to access the site, you may visit www.plustweet.tk
+ 

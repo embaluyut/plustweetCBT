@@ -1,0 +1,112 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "+Tweets",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "index.php",
+    "short_name": "+Tweets",
+    "theme_color": "#1da1f2",
+    "description": "Twitter application that let the user filter the tweet they can see.",
+    "orientation": "portrait",
+    "background_color": "#1da1f2",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "./img/fe48e6b4-ab80-d787-75e6-4b7cdbb46fb2.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/c96effb0-a3dc-e193-2b29-bd905a2595dd.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/11bf2670-fd5f-bc04-8032-43d4e3b8b6da.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/e6db3291-51dd-b39a-a1de-31e5604cd1a7.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/adba4e0a-4801-7224-a4a9-0f38250b0d7c.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/c1003cb0-5125-d6a1-beb1-eb23446ebc64.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/f40f627c-2fd4-d7f0-c709-e3641f66332c.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/cee37ed2-c8bd-cf17-483f-5ced89b68f9e.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/bcdfc9cf-45fe-c32c-bbab-57da1867cc60.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/a16d5e66-56a0-815b-516d-c063496a0385.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/97de6a0d-7451-5760-7af1-44f4442c7312.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/1bab9f6b-2740-2a97-c68b-d5aa55018dbf.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/029db556-aba7-d54f-39ae-26061594b5b4.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/70e8fd77-040b-b6f4-4c89-193837b280e9.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/f5c9e3f0-c4e6-1c6f-f976-5d948e17f320.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/09333e7e-6370-a02a-6d3a-cdbf627187d0.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/246418a9-320c-5be5-766f-59e8db60ae3a.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/79b61ebf-c73b-e8f1-d2ba-2014ec3721ba.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/a9089156-8e2d-7eea-a92f-8eee42798ebf.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}

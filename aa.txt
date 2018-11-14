@@ -1,0 +1,29 @@
+https://www.codexworld.com/login-with-twitter-using-php/
+
+https://www.codexworld.com/twitter-login-codeigniter/
+
+https://tweepy.readthedocs.io/en/v3.5.0/auth_tutorial.html
+
+https://stackoverflow.com/questions/41065856/is-it-possible-to-add-multiple-accounts-to-a-twitter-app-twitter-api-bot
+
+https://github.com/abraham/twitteroauth
+
+//------------------------https://developer.twitter.com/en/apps/15962727
+Keys and tokens
+Keys, secret keys and access tokens management.
+
+Consumer API keys
+MIQYaRJLXCFx6lgDOjzpLyuQg (API key)
+6HwIlp8V2MAxrznzGl877gsJhNjiGufx7LYe6U8qfog1gK8ZHb (API secret key)
+
+Access token & access token secret
+91298003-BoyH8rWzxhm5RhAOn6F2lUOcxrHpLaQe76jQ28YvD (Access token)
+j4QimZfe2JVZCGHjd9MZstNLkPwthIVgJ65VSgWU220nd (Access token secret)
+Read and write (Access level)
+//--------------------------
+
+Justin Twitter
+$twitter = new Twitter("3srDq3VZgp7cCQcaRQehi2R2Y", "DfMqsC1OgXNodGvWisWIXBEDNyCijdbhn5XGIu5uZ62Ig9yqpg", "1570478605-0wAE06sxuRlJEowORgNuL53OrQ7fU3NfGEvOB9s", "Es3LRixjnI0J0ScEm9dTADNywj8AOwtmyFjTQRXHBkx1X");
+
+Emman Twitter
+$twitter = new Twitter("MIQYaRJLXCFx6lgDOjzpLyuQg", "6HwIlp8V2MAxrznzGl877gsJhNjiGufx7LYe6U8qfog1gK8ZHb", "91298003-BoyH8rWzxhm5RhAOn6F2lUOcxrHpLaQe76jQ28YvD", "j4QimZfe2JVZCGHjd9MZstNLkPwthIVgJ65VSgWU220nd");

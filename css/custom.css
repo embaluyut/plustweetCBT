@@ -1,0 +1,14 @@
+/* your styles go here */
+.right {
+
+	right: 0;
+	position: fixed;
+}
+
+.container{
+	padding-top: 25px;
+}
+
+.nav-link{
+	font-size:30px;
+}
